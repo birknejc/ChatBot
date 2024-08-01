@@ -165,6 +165,7 @@ C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorS
 C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.RazorAssemblyInfo.cache
 C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.RazorAssemblyInfo.cs
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.sourcelink.json
 C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\staticwebassets\msbuild.BlazorServerCorr.Microsoft.AspNetCore.StaticWebAssets.props
@@ -182,4 +183,3 @@ C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorS
 C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.pdb
 C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.genruntimeconfig.cache
 C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\ref\BlazorServerCorr.dll
-C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.sourcelink.json
