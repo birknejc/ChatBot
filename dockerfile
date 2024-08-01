@@ -1,22 +1,21 @@
 ﻿# Use the official .NET image as a parent image
-FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS base
-WORKDIR /app
-EXPOSE 80
-
-# Use the SDK image for building
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
-WORKDIR /src
-COPY ["BlazorServerCorr.csproj", "BlazorServerCorr/"]
-RUN dotnet restore "BlazorServerCorr/BlazorServerCorr.csproj"
-COPY . .
-WORKDIR "/src/BlazorServerCorr"
-RUN dotnet build "BlazorServerCorr.csproj" -c Release -o /app/build
 
-FROM build AS publish
-RUN dotnet publish "BlazorServerCorr.csproj" -c Release -o /app/publish
-
-# Copy the build artifacts into the base image
-FROM base AS final
+# Set working directory
 WORKDIR /app
-COPY --from=publish /app/publish .
+
+COPY *.csproj
+RUN dotnet restore
+COPY . ./
+
+#publish application
+RUN dotnet publish -c Releaso -o out
+
+# official >NET runtime image for the runtime stage
+FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS runtime
+
+WORKDIR /app
+COPY --from=build /app/out .
+
+#done after build, is in bin folder
 ENTRYPOINT ["dotnet", "BlazorServerCorr.dll"]
