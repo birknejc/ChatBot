@@ -182,3 +182,4 @@ C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorS
 C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.pdb
 C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.genruntimeconfig.cache
 C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\ref\BlazorServerCorr.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.sourcelink.json
