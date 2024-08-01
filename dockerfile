@@ -6,7 +6,7 @@ EXPOSE 80
 # Use the SDK image for building
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /src
-COPY ["BlazorServerCorr/BlazorServerCorr.csproj", "BlazorServerCorr/"]
+COPY ["BlazorServerCorr.csproj", "BlazorServerCorr/"]
 RUN dotnet restore "BlazorServerCorr/BlazorServerCorr.csproj"
 COPY . .
 WORKDIR "/src/BlazorServerCorr"
