@@ -1,0 +1,184 @@
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/appsettings.Development.json
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/appsettings.json
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/BlazorServerCorr.staticwebassets.runtime.json
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/BlazorServerCorr
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/BlazorServerCorr.deps.json
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/BlazorServerCorr.runtimeconfig.json
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/BlazorServerCorr.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/BlazorServerCorr.pdb
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Azure.Core.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Azure.Identity.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/BlazorServerCorr.csproj.AssemblyReference.cache
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/BlazorServerCorr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/BlazorServerCorr.AssemblyInfoInputs.cache
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/BlazorServerCorr.AssemblyInfo.cs
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/BlazorServerCorr.csproj.CoreCompileInputs.cache
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/BlazorServerCorr.MvcApplicationPartsAssemblyInfo.cache
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/BlazorServerCorr.RazorAssemblyInfo.cache
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/BlazorServerCorr.RazorAssemblyInfo.cs
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/staticwebassets.build.json
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/staticwebassets.development.json
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/staticwebassets/msbuild.BlazorServerCorr.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/staticwebassets/msbuild.build.BlazorServerCorr.props
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BlazorServerCorr.props
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BlazorServerCorr.props
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/scopedcss/bundle/BlazorServerCorr.styles.css
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/scopedcss/projectbundle/BlazorServerCorr.bundle.scp.css
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/BlazorSe.503DBDE0.Up2Date
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/BlazorServerCorr.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/refint/BlazorServerCorr.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/BlazorServerCorr.pdb
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/BlazorServerCorr.genruntimeconfig.cache
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/obj/Debug/net7.0/ref/BlazorServerCorr.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Humanizer.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/System.CodeDom.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/MySqlConnector.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.Design.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.AspNetCore.Connections.Abstractions.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.AspNetCore.Http.Connections.Client.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.AspNetCore.Http.Connections.Common.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.AspNetCore.SignalR.Client.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.AspNetCore.SignalR.Client.Core.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.AspNetCore.SignalR.Common.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.Extensions.Features.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/jarrettplate/BlazorStuffTest/BlazorServerCorr/bin/Debug/net7.0/System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\appsettings.json
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\BlazorServerCorr.staticwebassets.runtime.json
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\BlazorServerCorr.exe
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\BlazorServerCorr.deps.json
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\BlazorServerCorr.runtimeconfig.json
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\BlazorServerCorr.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\BlazorServerCorr.pdb
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Humanizer.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.csproj.AssemblyReference.cache
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.AssemblyInfoInputs.cache
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.AssemblyInfo.cs
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.csproj.CoreCompileInputs.cache
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.RazorAssemblyInfo.cache
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.RazorAssemblyInfo.cs
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\staticwebassets\msbuild.BlazorServerCorr.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorServerCorr.props
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorServerCorr.props
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorServerCorr.props
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\scopedcss\bundle\BlazorServerCorr.styles.css
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\scopedcss\projectbundle\BlazorServerCorr.bundle.scp.css
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorSe.503DBDE0.Up2Date
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\refint\BlazorServerCorr.dll
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.pdb
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\BlazorServerCorr.genruntimeconfig.cache
+C:\Users\birkn\Documents\IHCC\Summer 2024\Advanced .Net\BlazorServerCorr\BlazorServerCorr\obj\Debug\net7.0\ref\BlazorServerCorr.dll

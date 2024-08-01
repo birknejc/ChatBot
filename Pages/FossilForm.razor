@@ -1,0 +1,81 @@
+﻿@page "/fossilform"
+@using System.ComponentModel.DataAnnotations
+@using Microsoft.EntityFrameworkCore
+@using BlazorServerCorr.Models
+@inject AppDbContext DbContext
+
+<h3>Fossil Form</h3>
+
+<EditForm Model="@fossil" OnValidSubmit="AddFossil">
+    <DataAnnotationsValidator />
+
+    <div>
+        <label for="name">Name:</label>
+        <input id="name" @bind="fossil.Name" />
+
+    </div>
+    <div>
+        <label for="species">Species:</label>
+        <input id="species" @bind="fossil.Species" />
+ 
+    </div>
+    <div>
+        <label for="age">Age (in million years):</label>
+        <input id="age" type="number" @bind="fossil.Age" />
+
+    </div>
+    <div>
+        <label for="location">Location Found:</label>
+        <input id="location" @bind="fossil.Location" />
+ 
+    </div>
+    <div>
+        <label for="description">Description:</label>
+        <textarea id="description" @bind="fossil.Description"></textarea>
+
+    </div>
+    <button type="submit">Add Fossil</button>
+
+    <ValidationSummary />
+
+</EditForm>
+
+
+
+<ul>
+    @foreach (var fossil in fossils)
+    {
+        <li>
+            <strong>Name:</strong> @fossil.Name <br />
+            <strong>Species:</strong> @fossil.Species <br />
+            <strong>Age:</strong> @fossil.Age <br />
+            <strong>Location:</strong> @fossil.Location <br />
+            <strong>Description:</strong> @fossil.Description <br />
+        </li>
+    }
+</ul>
+
+@code {
+
+    private Fossil fossil { get; set; } = new Fossil();
+    public List<Fossil> fossils = new List<Fossil>();
+
+    private async Task AddFossil()
+    {
+        if (!string.IsNullOrWhiteSpace(fossil.Name) &&
+            !string.IsNullOrWhiteSpace(fossil.Species) &&
+            fossil.Age > 0 &&
+            !string.IsNullOrWhiteSpace(fossil.Location) &&
+            !string.IsNullOrWhiteSpace(fossil.Description) &&
+            !fossils.Any(f => f.Name.ToUpper() == fossil.Name.ToUpper()))
+            //!fossils.Any(f => f.Name.ToUpper().Equals(fossil.Name.ToUpper(), StringComparison.OrdinalIgnoreCase)))
+            //!fossils.Any(f => f.Name.Equals(fossil.Name, StringComparison.OrdinalIgnoreCase)))
+        {
+            fossils.Add(fossil);
+            DbContext.Fossils.Add(fossil);
+            await DbContext.SaveChangesAsync();
+            fossil = new Fossil();
+        }
+    }
+}
+
