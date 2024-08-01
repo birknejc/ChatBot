@@ -9,7 +9,7 @@ RUN dotnet restore
 COPY . ./
 
 #publish application
-RUN dotnet publish -c Releaso -o out
+RUN dotnet publish -c Release -o out
 
 # official >NET runtime image for the runtime stage
 FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS runtime
